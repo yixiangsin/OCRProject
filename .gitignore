@@ -120,9 +120,6 @@ venv.bak/
 # mkdocs documentation
 /site
 
-# resource
-.jpg
-
 # mypy
 .mypy_cache/
 .dmypy.json
@@ -130,4 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
-/*.jpg
+
+# resource
+*.jpg
